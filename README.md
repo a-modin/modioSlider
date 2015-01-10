@@ -1,2 +1,2 @@
-# modioSlider
-Адаптивный слайдер без jQuery
+#modioSlider
+##Адаптивный слайдер без jQuery
